@@ -5,7 +5,7 @@
 ![WIP](https://img.shields.io/badge/Profile-Work%20in%20Progress-lightgrey)
 
 ***
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin416A12&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin416A12&layout=compact&theme=tokyonight)
 
 ***
 
