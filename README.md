@@ -3,6 +3,8 @@
 ![Student](https://img.shields.io/badge/Student-Computer%20Engineering-blue?)
 ![Learning](https://img.shields.io/badge/Status-Learning%20by%20Building-yellow)
 ![WIP](https://img.shields.io/badge/Profile-Work%20in%20Progress-lightgrey)
+
+***
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin416A12&layout=compact&theme=dark)
 
 ***
