@@ -16,7 +16,9 @@ I enjoy **backend development**, **web technologies**, and building systems wher
 
 I'm also curious about **game development** and **low-level / embedded systems**, and I plan to explore those areas as I grow as an engineer.
 
-<img src="<img src="assets/Gatocommit.gif" width="300" />" width="300" />
+<p align="center">
+  <img src="assets/Gatocommit.gif" width="300" />
+</p>
 
 
 ---
