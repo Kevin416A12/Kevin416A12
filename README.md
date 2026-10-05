@@ -13,10 +13,10 @@
 
 I'm a **Computer Engineering student** interested in understanding software and Hardware.
 
-I enjoy **backend development**, **web technologies**, and building systems where logic and performance are important.  
+I enjoy backend development, web technologies, and building systems where logic and performance are important.  
 
 
-I'm also curious about **game development** and **low-level to embedded systems**, and I want to explore those areas in the future.
+I'm also curious about game development and low-level to embedded systems, and I want to explore those areas in the future.
 
 <p align="center">
   <img src="assets/Gatocommit.gif" width="300" />
