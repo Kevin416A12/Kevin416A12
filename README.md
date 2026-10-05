@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kevin Castro
 
 ![Student](https://img.shields.io/badge/Student-Computer%20Engineering-blue?)
-![Learning](https://img.shields.io/badge/Status-Learning%20by%20Building-yellow)
+![Learning](https://img.shields.io/badge/Status-Learning-yellow)
 ![WIP](https://img.shields.io/badge/Profile-Work%20in%20Progress-lightgrey)
 
 ***
@@ -11,12 +11,12 @@
 
 ## About Me
 
-I'm a **Computer Engineering student** interested in understanding software .
+I'm a **Computer Engineering student** interested in understanding software and Hardware.
 
-I enjoy **backend development**, **web technologies**, and building systems where logic, performance, and design decisions actually matter.  
+I enjoy **backend development**, **web technologies**, and building systems where logic and performance are important.  
 
 
-I'm also curious about **game development** and **low-level / embedded systems**, and I plan to explore those areas as I grow as an engineer.
+I'm also curious about **game development** and **low-level to embedded systems**, and I want to explore those areas in the future.
 
 <p align="center">
   <img src="assets/Gatocommit.gif" width="300" />
@@ -28,14 +28,12 @@ I'm also curious about **game development** and **low-level / embedded systems**
 ## What I Like
 - Backend development and system logic  
 - Algorithms and problem solving  
-- Understanding performance and memory usage  
-- Designing systems, not just writing code  
 - Learning by building small projects
 
 ---
 
 ## What I Want to Learn
-- Backend architectures and APIs  
+- Backend architectures 
 - Modern web development  
 - Game development with Unity  
 - Embedded systems and microcontrollers  
@@ -51,11 +49,4 @@ I'm also curious about **game development** and **low-level / embedded systems**
 ![Unity](https://img.shields.io/badge/Unity-Planned-black?logo=unity)
 ![Embedded](https://img.shields.io/badge/Embedded%20Systems-Future-yellow)
 
----
-
-##  Current Goal
-Build a strong foundation in **software engineering and systems**,  
-learn by doing, and gradually move toward **backend, game development, and embedded technologies**.
-
----
 
