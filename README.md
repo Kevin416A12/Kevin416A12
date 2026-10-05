@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm a **Computer Engineering student** interested in understanding software and Hardware.
+I'm a Computer Engineering student interested in understanding software and Hardware.
 
 I enjoy backend development, web technologies, and building systems where logic and performance are important.  
 
